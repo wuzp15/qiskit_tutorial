@@ -5,14 +5,14 @@
 
 ### [Install Qiskit][install] 
 
-1.Install [Anaconda][anaconda]
+1. Install [Anaconda][anaconda]
 
-2.Create python 3 environment with name as ENV_NAME 
+2. Create python 3 environment with name  ENV_NAME 
 ```console
 conda create -n ENV_NAME python=3
 ```
 
-3.Activate your new environment.
+3. Activate your new environment.
 ```console
 conda activate ENV_NAME
 ```
