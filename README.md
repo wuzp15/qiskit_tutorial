@@ -3,7 +3,7 @@
 
 
 
-### [Install][install] Qiskit Locally
+### [Install][install] Qiskit
 
 1.Install [Anaconda][anaconda]
 
