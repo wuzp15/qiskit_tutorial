@@ -39,8 +39,6 @@ A [textbook][textbook] about quantum computing from ibm team.
 
 [Documentation][documentation] about qiskit.
 
-
-
 [anaconda]:https://www.anaconda.com/products/individual
 [textbook]:https://qiskit.org/textbook/preface.html 
 [documentation]: https://qiskit.org/documentation/
