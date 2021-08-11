@@ -35,9 +35,9 @@ pip install jupyterlab
 
 ### For further reading
 
-A thorough [textbook][textbook] about quantum computing.
+A [textbook][textbook] about quantum computing from ibm team.
 
-[Documentation][documentation] about qiskit
+[Documentation][documentation] about qiskit.
 
 
 
