@@ -7,11 +7,10 @@
 
 1.Install [Anaconda][anaconda]
 
-2.Create a minimal environment with only Python installed in it.
+2.Create python 3 environment with name as ENV_NAME 
 ```console
 conda create -n ENV_NAME python=3
 ```
-ENV_NAME is the name of your enviroment
 
 3.Activate your new environment.
 ```console
@@ -21,7 +20,14 @@ conda activate ENV_NAME
 ```console
 pip install qiskit
 ```
-
+5. Install Jupyter notebook or Jupyterlab
+```console
+pip install notebook
+```
+or 
+```console
+pip install jupyterlab
+```
 
 
 
