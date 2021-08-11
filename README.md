@@ -33,13 +33,13 @@ pip install jupyterlab
 
 
 
-### For further reading
+## For further reading
 
-[Qiskit-tutorials][tutorial] with jupyter notebook.
+### [Qiskit-tutorials][tutorial] with jupyter notebook.
 
-A [textbook][textbook] about quantum computing from ibm team.
+### [textbook][textbook] about quantum computing from ibm team.
 
-[Documentation][documentation] about qiskit.
+### [Documentation][documentation] about qiskit.
 
 
 [tutorial]:https://github.com/Qiskit/qiskit-tutorials
