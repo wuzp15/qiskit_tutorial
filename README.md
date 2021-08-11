@@ -1,16 +1,11 @@
-# qiskit_tutorial
-
-An elementary introduction to qiskit.
+#An elementary introduction to qiskit.
 
 
-For further reading
-A thorough [textbook][textbook] about quantum computing.
 
-[Documentation][documentation] about qiskit
 
 ### [Install][install] Qiskit Locally
 
-1. Install [Anaconda][anaconda]
+1.Install [Anaconda][anaconda]
 
 2.Create a minimal environment with only Python installed in it.
 ```console
@@ -26,6 +21,17 @@ conda activate ENV_NAME
 ```console
 pip install qiskit
 ```
+
+
+
+
+
+
+### For further reading
+
+A thorough [textbook][textbook] about quantum computing.
+
+[Documentation][documentation] about qiskit
 [anaconda]:https://www.anaconda.com/products/individual
 [textbook]:https://qiskit.org/textbook/preface.html 
 [documentation]: https://qiskit.org/documentation/
