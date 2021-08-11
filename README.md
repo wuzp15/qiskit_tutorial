@@ -32,6 +32,9 @@ pip install qiskit
 A thorough [textbook][textbook] about quantum computing.
 
 [Documentation][documentation] about qiskit
+
+
+
 [anaconda]:https://www.anaconda.com/products/individual
 [textbook]:https://qiskit.org/textbook/preface.html 
 [documentation]: https://qiskit.org/documentation/
