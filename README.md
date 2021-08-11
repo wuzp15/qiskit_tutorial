@@ -8,7 +8,7 @@ A thorough [textbook][textbook] about quantum computing.
 
 [Documentation][documentation] about qiskit
 
-# Install Qiskit Locally https://qiskit.org/documentation/getting_started.html
+### [Install][install] Qiskit Locally
 
 1. Install [Anaconda][anaconda]
 
@@ -29,3 +29,4 @@ pip install qiskit
 [anaconda]:https://www.anaconda.com/products/individual
 [textbook]:https://qiskit.org/textbook/preface.html 
 [documentation]: https://qiskit.org/documentation/
+[install]: https://qiskit.org/documentation/getting_started.html
