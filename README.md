@@ -1,7 +1,7 @@
 # An elementary introduction to qiskit.
 
 
-
+Fork from IBM's [Qiskit-tutorials][tutorial]
 
 ### [Install Qiskit][install] 
 
