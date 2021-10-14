@@ -1,7 +1,5 @@
-# An elementary introduction to qiskit.
+# An elementary introduction to qiskit. 
 
-
-Fork from IBM's [Qiskit-tutorials][tutorial]
 
 ### [Install Qiskit][install] 
 
@@ -10,7 +8,7 @@ Fork from IBM's [Qiskit-tutorials][tutorial]
 
 
 
-## After Anaconda Installation,
+**After Anaconda Installation**
 
 For windows user, do the following with Anaconda Prompt.
 
