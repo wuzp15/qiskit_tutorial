@@ -8,8 +8,9 @@ Fork from IBM's [Qiskit-tutorials][tutorial]
 1. Install [Anaconda][anaconda]
 
 
+For windows user, do the following with Anaconda Prompt.
+
 For macos and Linux, do the following with your shell.
-For windows user, do the following with 
 
 <img width="460" alt="截屏2021-10-14 下午3 11 49" src="https://user-images.githubusercontent.com/28384350/137269205-066bc52f-7bc7-402c-a915-ed2cc4fae4b8.png">
 
