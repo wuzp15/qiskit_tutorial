@@ -1,7 +1,7 @@
 # An elementary introduction to qiskit. 
 
 
-### [Install Qiskit][install] 
+## [Install Qiskit][install] 
 
 1. Install [Anaconda][anaconda]
 
