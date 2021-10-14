@@ -8,6 +8,10 @@ Fork from IBM's [Qiskit-tutorials][tutorial]
 1. Install [Anaconda][anaconda]
 
 
+
+
+## After Anaconda Installation,
+
 For windows user, do the following with Anaconda Prompt.
 
 For macos and Linux, do the following with your shell.
