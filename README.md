@@ -40,10 +40,21 @@ or
 ```console
 pip install jupyterlab
 ```
+## Start the jupyterlab with Qiskit environment
 
+For mac or linux, use terminal.
+For window, use Anaconda rompt.
 
+1.activate your qiskit environment
+```console
+conda activate ENV_NAME
+```
+2.start jupyterlab
+```console
+jupyter lab
+```
 
-
+You should see jupyterlab in your browser.
 
 ## For further reading
 
