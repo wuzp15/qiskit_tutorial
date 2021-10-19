@@ -21,7 +21,7 @@ For macos and Linux, do the following with your shell.
 
 2. Create python 3 environment with name  ENV_NAME (replace by anyname you like)
 ```console
-conda create -n ENV_NAME python=3
+conda create -n ENV_NAME python=3.8
 ```
 
 3. Activate your new environment.
